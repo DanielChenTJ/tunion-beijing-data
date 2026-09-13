@@ -1,6 +1,6 @@
 {
   "version": "2026-08-19",
-  "revision": 2,
+  "revision": 3,
   "source": "北京市交通一卡通互联互通情况说明（2026年8月官方图片）",
   "description": "可于北京城市轨道交通、市郊铁路S2线、公交等使用的异地交通联合卡IIN名单。IIN由官方图片整理。",
   "beijing_local_iins": [
